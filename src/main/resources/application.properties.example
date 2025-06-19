@@ -1,0 +1,5 @@
+spring.application.name=eguneko-hitza-app
+azure.openai.api.key=YOUR_API_KEY_HERE
+azure.openai.endpoint=https://YOUR_RESOURCE_NAME.openai.azure.com/
+azure.openai.deployment=gpt-35-turbo
+azure.openai.api.version=2023-05-15
