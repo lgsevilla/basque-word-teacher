@@ -9,7 +9,7 @@ The backend is integrated with the Azure OpenAI API (GPT-3.5) to generate respon
 ---
 
 ## Features
-- RESTful API for retrieving a random Basque word (noun or verb)  
+- RESTful API for retrieving a random Basque word (noun or verb) from a PostgreSQL database running in a Docker container, using Jakarta Persistence (JPA) with Spring Boot 
 - Chat endpoint for sending questions about a specific Basque word to an AI assistant  
 - Sentence checking endpoint (planned for future versions) to validate user-written sentences for grammaticality and naturalness  
 - Modular, testable Spring Boot codebase  
